@@ -1,0 +1,1 @@
+Este repositório contém todas as anotações e exercícios do curso inicial de Engenharia de Dados fornecido pelo Santantder
